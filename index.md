@@ -11,3 +11,9 @@ We made some changes to the markdown file. We added an h1 header.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+### Example task list: 
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
